@@ -7,3 +7,4 @@
 #define D "%d"
 #define E EOF
 #define I int main(){int
+#define Z ;}
